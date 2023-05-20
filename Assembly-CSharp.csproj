@@ -36,6 +36,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets/PlayerWeapon.cs" />
+     <Compile Include="Assets/PlayerShoot.cs" />
      <Compile Include="Assets/Project/PlayerController.cs" />
      <Compile Include="Assets/Project/PlayerMotor.cs" />
     <Reference Include="UnityEngine">
