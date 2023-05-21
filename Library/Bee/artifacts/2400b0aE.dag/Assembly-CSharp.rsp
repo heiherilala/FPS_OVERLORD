@@ -369,6 +369,7 @@
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/kcp2k.ref.dll"
+"Assets/PlayerSetup.cs"
 "Assets/PlayerShoot.cs"
 "Assets/PlayerWeapon.cs"
 "Assets/Project/PlayerController.cs"
